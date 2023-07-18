@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "324771512897",
+    "project_id": "gleekey-f0784",
+    "storage_bucket": "gleekey-f0784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324771512897:android:802425bf5f27feb303fcc0",
+        "android_client_info": {
+          "package_name": "com.softieons.gleekyhost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324771512897-06g1n8j8m6jm3i0e3bg1nqq7ebp7ls5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softieons.gleekyhost",
+            "certificate_hash": "6e279b8e24c4769e03c7c9ae9b7e820170a93205"
+          }
+        },
+        {
+          "client_id": "324771512897-1hat9er95nde3fr8gm7fv2ldve6ajrpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softieons.gleekyhost",
+            "certificate_hash": "9edc60442c6b7a9bccf25d08dbbbe98bbf797a95"
+          }
+        },
+        {
+          "client_id": "324771512897-3g8v7q65994rj9kiaasb15o1lqv3ve6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softieons.gleekyhost",
+            "certificate_hash": "44c1c6a0dedd259527e6c90d0d6b2179376a70f8"
+          }
+        },
+        {
+          "client_id": "324771512897-0nf28ipq02o6fcine4mpmbvc2p0nhi25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOPEyBkzOZQbXAB990IasG3KgZ2HbEKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324771512897-0l11fvggtve27lcp0roi42toj3evir8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
